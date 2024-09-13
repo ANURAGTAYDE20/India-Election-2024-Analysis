@@ -6,12 +6,11 @@ The India Election 2024 Analysis Project is a comprehensive case study that anal
 Datasets
 The project utilizes multiple datasets to perform the analysis:
 
-statewise_results.csv:Contains state-wise aggregated election results.
-constituencywise_results.csv: Provides detailed results for each parliamentary constituency.
-constituencywise_details.csv: Includes candidate-specific details and voting data for each constituency.
-states.csv: Contains information about the states and their metadata.
-partywise_results.csv: Contains election results aggregated by political party.
-SQL Queries and Analysis
+1)statewise_results.csv:Contains state-wise aggregated election results.
+2)constituencywise_results.csv: Provides detailed results for each parliamentary constituency.
+3)constituencywise_details.csv: Includes candidate-specific details and voting data for each constituency.
+4)states.csv: Contains information about the states and their metadata.
+5)partywise_results.csv: Contains election results aggregated by political party.
 
 This project focuses on advanced SQL concepts, including:
 1)Common Table Expressions (CTEs): Used to simplify complex queries and enhance readability.
